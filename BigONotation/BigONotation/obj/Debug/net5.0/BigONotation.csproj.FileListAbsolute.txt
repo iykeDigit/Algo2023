@@ -1,0 +1,16 @@
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.exe
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.deps.json
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.runtimeconfig.json
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.runtimeconfig.dev.json
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.dll
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\bin\Debug\net5.0\ref\BigONotation.dll
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.pdb
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.csproj.AssemblyReference.cache
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.AssemblyInfoInputs.cache
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.AssemblyInfo.cs
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.csproj.CoreCompileInputs.cache
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.dll
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\ref\BigONotation.dll
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.pdb
+C:\Users\injoku\Documents\FAANG\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.genruntimeconfig.cache
