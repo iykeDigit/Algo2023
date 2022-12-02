@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\injoku\\Documents\\Algo2023\\Neetcode\\Arrays\\Arrays\\Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "C:\\Users\\injoku\\Documents\\Algo2023\\Neetcode\\Arrays\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\injoku\\Documents\\Algo2023\\Neetcode\\TwoPointers\\TwoPointers\\TwoPointers.csproj",
+      "projectName": "TwoPointers",
+      "projectPath": "C:\\Users\\injoku\\Documents\\Algo2023\\Neetcode\\TwoPointers\\TwoPointers\\TwoPointers.csproj",
       "packagesPath": "C:\\Users\\injoku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\injoku\\Documents\\Algo2023\\Neetcode\\Arrays\\Arrays\\obj\\",
+      "outputPath": "C:\\Users\\injoku\\Documents\\Algo2023\\Neetcode\\TwoPointers\\TwoPointers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
